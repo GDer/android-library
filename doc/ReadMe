@@ -1,0 +1,3 @@
+Go to > adk/platform-tools/adb-shell
+run-as package.name
+cat db > /sdcard/db_copy.db
